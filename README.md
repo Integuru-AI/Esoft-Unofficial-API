@@ -4,7 +4,7 @@ Unofficial Python integrations for Esoft.
 
 ## Integrations
 
-- `esoft_list_estimates.py` - `list_estimates` (6 live events).
+- `esoft_list_estimates.py` - `list_estimates`.
 
 ## Usage
 
